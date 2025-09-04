@@ -22,4 +22,4 @@ I am building concepts step by step — from the basics to advanced topics.
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/<repo-name>.git
+   git clone https:/NaveedAhmad-6522/Machine-Learning/.git
