@@ -1,0 +1,3 @@
+basit,75.00,phy 
+naveed,42.00,cs 
+wisal,0.00,urdu 
